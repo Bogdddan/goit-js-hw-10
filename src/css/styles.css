@@ -18,3 +18,8 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.country-list{
+  color: black;
+  font-size: larger;
+}
